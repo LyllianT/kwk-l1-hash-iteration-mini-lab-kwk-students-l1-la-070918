@@ -18,7 +18,7 @@ def add_a_key_value_pair(create_olympics_has)
   }
   create_olympics_has.push(:Atlanta => "1996")
 end
-puts create_olympics_hash
+puts create_olympics_has
 
 def iterate_through_hash
   # Implement this method so that it iterates over the hash created in add_a_key_value_pair
