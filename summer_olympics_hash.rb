@@ -16,7 +16,7 @@ def add_a_key_value_pair(create_olympics_hash)
   :London => "2012",
   :Athens => "2004"
   }
-  puts create_olympics_hash >> [:Atlanta]["1996"]
+  puts create_olympics_hash << [:Atlanta]["1996"]
 end
 puts create_olympics_hash
 
