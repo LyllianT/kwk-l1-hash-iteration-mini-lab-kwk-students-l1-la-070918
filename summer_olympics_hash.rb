@@ -10,7 +10,7 @@ def create_olympics_hash
 end
 
 def add_a_key_value_pair(create_olympics_hash)
-  create_olympics_hash << (:Atlanta) => "1996"
+  create_olympics_hash << 
 end
 puts create_olympics_hash
 
